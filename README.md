@@ -35,7 +35,3 @@ Contributions are welcome! If you have ideas for new tutorials or improvements t
 - [Label Studio Enterprise](https://humansignal.com/platform/label-studio-enterprise/)
 - [Label Studio GitHub](https://github.com/HumanSignal/label-studio)
 - [HumanSignal](https://humansignal.com/)
-
-## License
-
-[Add your license here]
